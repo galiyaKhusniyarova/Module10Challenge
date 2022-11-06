@@ -25,5 +25,5 @@ If you want to run the program yourself and/or enter different data, do the foll
 ###Plotting the Results
 ![bokeh_plot (2)](https://user-images.githubusercontent.com/111472420/200193042-51098a1f-0d0d-49fd-99a8-af8755a853ce.png)
 ![image](https://user-images.githubusercontent.com/111472420/200193065-4c072ef1-9fb9-41fd-b0da-d3e12a2e44f0.png)
+![image](https://user-images.githubusercontent.com/111472420/200193120-cd2a397e-83fd-47db-bfc0-572393147f74.png)
 
-![image](https://user-images.githubusercontent.com/111472420/193461124-3e1c4693-e6b7-435b-a4cb-68ac726ac1fe.png)
